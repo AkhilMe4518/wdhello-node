@@ -1,4 +1,4 @@
 const hello = ()=>{
-    console.log("AKHIL");
+    console.log("AKHIL is nani ");
 }
-hello()
+hello();
